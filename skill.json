@@ -1,0 +1,13 @@
+{
+  "name": "genpark-dominator-tree-ssa-phi-node-placement-skill",
+  "version": "1.0.0",
+  "description": "SSA form construction engine calculating dominator trees, dominance frontiers, and minimal phi-node placements over Control Flow Graphs (CFG).",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "compiler-opt",
+    "ssa-form",
+    "dominator-tree",
+    "dominance-frontiers"
+  ]
+}
